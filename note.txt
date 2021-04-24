@@ -18,4 +18,6 @@ Now our work will continue locally
 How to save after adding some text in subline?
 On Mac --> Command + s
 On Windeow --> control + s
-Or Click on File --> Save
+Or Click on File --> Save'
+
+We do not have to push one commit at a time
